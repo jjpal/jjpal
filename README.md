@@ -1,4 +1,4 @@
-[![Header](https://github.com/jjpal/jjpal/blob/main/assets/header.jpg "Header")]
+[![Header](https://github.com/jjpal/jjpal/blob/main/assets/header.jpg "Header")](https://public.tableau.com/app/profile/jj1485)
 
 ### Hi there 👋
 
