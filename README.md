@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 ## Tech Skills
-<img src = "/assets/tech_st.png" alt="tech_skills" width="375"/>
+### SQL/ Python & libraries*/ Tableau
+
+#### Looker/ databases/ dbt/ command-line/ R
+##### * pandas, numpy, matplotlib, seaborn
 
 #### ⚡ Fun facts
 <img src = "/assets/ffacts.png" alt="drawing" width="300"/>
